@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hce_service_description">MPay</string>
+    <string name="aid_description">>MPay Pay aid_description</string>
+</resources>
